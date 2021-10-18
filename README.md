@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BlackJack-14
+- 👋 Hi, I’m Rudra aka BlackJack-14
 - 👀 I’m interested in React-Js And Pyhton
 - 🌱 I’m currently learning React
 - 📫 How to reach me ==> Instagram --> https://www.instagram.com/rudra_always/ , Discord --> Rudra#7831
