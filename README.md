@@ -6,7 +6,7 @@
 
 ### 👀 About Me
 
-I'm a passionate and driven tech enthusiast with a strong foundation in software development and a specialization in **AI/ML**. With proficiency in **MERN Stack Development**, **Python**, **SQL**, and **JavaScript**, I thrive on building impactful solutions that address real-world challenges, particularly in **database management** and **student information systems**.
+I'm a passionate and driven tech enthusiast with a strong foundation in software development and a specialization in **AI/ML**. With proficiency in **MERN Stack Development**, **Python**, **SQL**, and **JavaScript**, I thrive on building impactful solutions that address real-world challenges, particularly in **database management**.
 
 As the **Associate Technical Head at UPES-CSA**, I oversee technical initiatives, manage the UPES-CSA website, and mentor teammates in skill development, fostering a collaborative and growth-oriented environment.
 
@@ -32,8 +32,7 @@ As the **Associate Technical Head at UPES-CSA**, I oversee technical initiatives
 
 ### 🔬 Noteworthy Projects
 
-- **Student Information System (DBMS)**: Developed a comprehensive system to manage student data, course registrations, attendance, and grades for a school/college environment.
-- **Hackathon Website 2023-2024**: Played a key role in designing and optimizing the UI for seamless event registration and user experience.
+- **Hackathon Website for UPES-CSA Hackathon 2023**: Played a key role in designing and optimizing the UI for seamless event registration and user experience.
 - **UPES-CSA Website**: Spearheaded design and functionality enhancements, streamlining event registration and maximizing user engagement.
 - **Corona Dashboard**
   - **Technology Stack:** React.js, Material-UI
