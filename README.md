@@ -6,16 +6,16 @@
 
 ### 👀 About Me
 
-I'm a passionate and dedicated tech enthusiast with a strong foundation in software development and a focus on **AI/ML**. With hands-on experience in **MERN Stack Development**, **Python**, **SQL**, and **JavaScript**, I enjoy diving deep into projects that solve real-world problems, especially those related to **database management** and **student information systems**.
+I'm a passionate and driven tech enthusiast with a strong foundation in software development and a specialization in **AI/ML**. With proficiency in **MERN Stack Development**, **Python**, **SQL**, and **JavaScript**, I thrive on building impactful solutions that address real-world challenges, particularly in **database management** and **student information systems**.
 
-In my current role as the **Associate Technical Head at UPES-CSA**, I lead technical initiatives, manage the official UPES-CSA website, and support my teammates in skill development and collaborative projects.
+As the **Associate Technical Head at UPES-CSA**, I oversee technical initiatives, manage the UPES-CSA website, and mentor teammates in skill development, fostering a collaborative and growth-oriented environment.
 
 ---
 
-### 🌱 Currently Learning
+### 🌱 Current Learning Focus
 
-- **React.js** for building dynamic and responsive web applications.
-- **Artificial Intelligence and Machine Learning** to expand my capabilities in predictive analysis, model creation, and data-driven solutions.
+- Deepening my expertise in **Artificial Intelligence and Machine Learning (AI/ML)** to excel in predictive analysis, model creation, and data-driven solutions.
+- Expanding my practical knowledge of the **MERN Stack** by developing hands-on projects that showcase dynamic, responsive web applications.
 
 ---
 
@@ -30,28 +30,23 @@ In my current role as the **Associate Technical Head at UPES-CSA**, I lead techn
 
 ---
 
-### 🔬 Projects
+### 🔬 Noteworthy Projects
 
-- **Student Information System (DBMS)**: Developed a comprehensive system to manage student data, course registrations, attendance, and grades for a school/college setup.
-- **Hackathon Website 2023-2024**: Contributed to the UI development for event registration and improved user experience.
-- **UPES-CSA Website**: Spearheaded the design and functionality to streamline event registration and enhance user engagement.
+- **Student Information System (DBMS)**: Developed a comprehensive system to manage student data, course registrations, attendance, and grades for a school/college environment.
+- **Hackathon Website 2023-2024**: Played a key role in designing and optimizing the UI for seamless event registration and user experience.
+- **UPES-CSA Website**: Spearheaded design and functionality enhancements, streamlining event registration and maximizing user engagement.
 - **Corona Dashboard**
   - **Technology Stack:** React.js, Material-UI
-  - Developed a project that displays COVID-19 statistics, including active cases, deaths, and recoveries, using the World Health Organization (WHO) API.
+  - Created a dashboard displaying COVID-19 statistics, including active cases, deaths, and recoveries, powered by the World Health Organization (WHO) API.
 - **Weather App**
   - **Technology Stack:** React.js
-  - Built an application that displays current weather information using the OpenWeatherMap API.
+  - Built an application providing real-time weather information using the OpenWeatherMap API.
 
 ---
 
-### 📫 Let's Connect!
+### 📫 Connect with Me!
 
 - **Email:** [rudragupta0123@gmail.com](mailto:rudragupta0123@gmail.com)
-- **LinkedIn:** [Rudra Gupta on LinkedIn](https://www.linkedin.com/in/rudra-gupta/)
+- **LinkedIn:** [Rudra Gupta on LinkedIn](https://www.linkedin.com/in/rudra-gupta/){:target="\_blank"}
 
 ---
-
-<!---
-BlackJack-14/BlackJack-14 is a ✨ special ✨ repository because this README appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
