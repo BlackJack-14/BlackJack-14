@@ -46,6 +46,6 @@ As the **Associate Technical Head at UPES-CSA**, I oversee technical initiatives
 ### 📫 Connect with Me!
 
 - **Email:** [rudragupta0123@gmail.com](mailto:rudragupta0123@gmail.com)
-- **LinkedIn:** [Rudra Gupta on LinkedIn](https://www.linkedin.com/in/rudra-gupta/){:target="\_blank"}
+- **LinkedIn:** [Rudra Gupta on LinkedIn](https://www.linkedin.com/in/rudra-gupta/)
 
 ---
