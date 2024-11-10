@@ -26,7 +26,6 @@ As the **Associate Technical Head at UPES-CSA**, I oversee technical initiatives
 - **Database Management:** MongoDB, SQL
 - **Programming Languages:** Python, C, JavaScript
 - **Frameworks & Libraries:** Pandas, Matplotlib (for data visualization)
-- **Tools:** Google Apps Script (for Google Sheets integration)
 
 ---
 
