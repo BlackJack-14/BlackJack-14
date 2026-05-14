@@ -168,9 +168,6 @@ High-accuracy · low-latency
 
 </div>
 
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BlackJack-14&theme=github_dark" width="96%"/>
-</div>
 
 ---
 
