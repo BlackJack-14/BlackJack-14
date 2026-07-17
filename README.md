@@ -8,7 +8,7 @@
 
 <a href="mailto:rudra.gupta@hotmail.com"><img src="https://img.shields.io/badge/-rudra.gupta%40hotmail.com-0d1117?style=flat-square&logo=gmail&logoColor=00FF88"/></a>
 <a href="https://linkedin.com/in/rudra-gupta"><img src="https://img.shields.io/badge/-rudra--gupta-0d1117?style=flat-square&logo=linkedin&logoColor=00FF88"/></a>
-<a href="https://github.com/BlackJack-14"><img src="https://img.shields.io/badge/-BlackJack--14-0d1117?style=flat-square&logo=github&logoColor=00FF88"/></a>
+<a href="https://github.com/byRudra"><img src="https://img.shields.io/badge/-BlackJack--14-0d1117?style=flat-square&logo=github&logoColor=00FF88"/></a>
 
 </div>
 
