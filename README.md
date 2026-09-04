@@ -1,16 +1,23 @@
+<img src="assets/header.png" width="100%" alt=""/>
+
 <h1 align="center">Rudra Gupta</h1>
 
 <p align="center"><em>Software engineer who happens to speak fluent machine learning.</em></p>
 
 <p align="center">
-<a href="https://byrudra.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2f5fe0?style=flat-square&logo=vercel&logoColor=ffffff"/></a>
-<a href="mailto:rudra.gupta@hotmail.com"><img src="https://img.shields.io/badge/Email-141020?style=flat-square&logo=maildotru&logoColor=9bc3e7"/></a>
-<a href="https://linkedin.com/in/rudra-gupta"><img src="https://img.shields.io/badge/LinkedIn-141020?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzliYzNlNyI%2BPHBhdGggZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42My0xLjg1IDMuMzYtMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ1djYuMjl6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzJ2MjAuNTZDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43MlYxLjcyQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4%3D"/></a>
-<a href="https://github.com/byRudra"><img src="https://img.shields.io/badge/GitHub-141020?style=flat-square&logo=github&logoColor=9bc3e7"/></a>
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-2f5fe0?style=for-the-badge&labelColor=141020"/>
+<img src="https://img.shields.io/badge/JAMMU%2C%20INDIA-141020?style=for-the-badge&labelColor=141020"/>
 </p>
 
 <p align="center">
-<sub>B.Tech CSE (AI/ML), UPES Dehradun &nbsp;·&nbsp; CGPA 8.14/10 &nbsp;·&nbsp; 2023–2027 &nbsp;·&nbsp; Jammu, India</sub>
+<a href="https://byrudra.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-2f5fe0?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=141020"/></a>
+<a href="mailto:rudra.gupta@hotmail.com"><img src="https://img.shields.io/badge/EMAIL-141020?style=for-the-badge&logo=maildotru&logoColor=8fd6e3&labelColor=141020"/></a>
+<a href="https://linkedin.com/in/rudra-gupta"><img src="https://img.shields.io/badge/LINKEDIN-141020?style=for-the-badge&logoColor=8fd6e3&labelColor=141020&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzhmZDZlMyI%2BPHBhdGggZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42My0xLjg1IDMuMzYtMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ1djYuMjl6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzJ2MjAuNTZDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43MlYxLjcyQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4%3D"/></a>
+<a href="https://github.com/byRudra"><img src="https://img.shields.io/badge/GITHUB-141020?style=for-the-badge&logo=github&logoColor=8fd6e3&labelColor=141020"/></a>
+</p>
+
+<p align="center">
+<sub>B.Tech CSE (AI/ML), UPES Dehradun &nbsp;·&nbsp; CGPA 8.14/10 &nbsp;·&nbsp; 2023–2027</sub>
 </p>
 
 I take work through to something **running in production**, not a prototype — agentic systems, retrieval and fine-tuning, plus the backend and infrastructure that keeps them up. I build with AI coding assistants as standard practice, and exercise judgement on what they generate before it ships.
@@ -43,20 +50,23 @@ Built the company site in React on reusable components, with AVIF asset optimisa
 ## Stack
 
 <p>
-<img src="https://img.shields.io/badge/Python-141020?style=flat-square&logo=python&logoColor=9bc3e7"/>
-<img src="https://img.shields.io/badge/TypeScript-141020?style=flat-square&logo=typescript&logoColor=9bc3e7"/>
-<img src="https://img.shields.io/badge/PyTorch-141020?style=flat-square&logo=pytorch&logoColor=9bc3e7"/>
-<img src="https://img.shields.io/badge/React-141020?style=flat-square&logo=react&logoColor=9bc3e7"/>
-<img src="https://img.shields.io/badge/Node.js-141020?style=flat-square&logo=nodedotjs&logoColor=9bc3e7"/>
-<img src="https://img.shields.io/badge/FastAPI-141020?style=flat-square&logo=fastapi&logoColor=9bc3e7"/>
-<img src="https://img.shields.io/badge/Express-141020?style=flat-square&logo=express&logoColor=9bc3e7"/>
-<img src="https://img.shields.io/badge/MongoDB-141020?style=flat-square&logo=mongodb&logoColor=9bc3e7"/>
-<img src="https://img.shields.io/badge/Redis-141020?style=flat-square&logo=redis&logoColor=9bc3e7"/>
-<img src="https://img.shields.io/badge/Docker-141020?style=flat-square&logo=docker&logoColor=9bc3e7"/>
-<img src="https://img.shields.io/badge/AWS_EC2-141020?style=flat-square"/>
-<img src="https://img.shields.io/badge/Nginx-141020?style=flat-square&logo=nginx&logoColor=9bc3e7"/>
-<img src="https://img.shields.io/badge/Linux-141020?style=flat-square&logo=linux&logoColor=9bc3e7"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-141020?style=flat-square&logo=githubactions&logoColor=9bc3e7"/>
+<img src="https://img.shields.io/badge/Python-9bc3e7?style=flat-square&logo=python&logoColor=141020"/>
+<img src="https://img.shields.io/badge/TypeScript-9bc3e7?style=flat-square&logo=typescript&logoColor=141020"/>
+<img src="https://img.shields.io/badge/PyTorch-9bc3e7?style=flat-square&logo=pytorch&logoColor=141020"/>
+<img src="https://img.shields.io/badge/React-9bc3e7?style=flat-square&logo=react&logoColor=141020"/>
+<img src="https://img.shields.io/badge/Node.js-9bc3e7?style=flat-square&logo=nodedotjs&logoColor=141020"/>
+<img src="https://img.shields.io/badge/FastAPI-9bc3e7?style=flat-square&logo=fastapi&logoColor=141020"/>
+<img src="https://img.shields.io/badge/Express-9bc3e7?style=flat-square&logo=express&logoColor=141020"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/MongoDB-c9e4f5?style=flat-square&logo=mongodb&logoColor=141020"/>
+<img src="https://img.shields.io/badge/Redis-c9e4f5?style=flat-square&logo=redis&logoColor=141020"/>
+<img src="https://img.shields.io/badge/Docker-c9e4f5?style=flat-square&logo=docker&logoColor=141020"/>
+<img src="https://img.shields.io/badge/AWS_EC2-c9e4f5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Nginx-c9e4f5?style=flat-square&logo=nginx&logoColor=141020"/>
+<img src="https://img.shields.io/badge/Linux-c9e4f5?style=flat-square&logo=linux&logoColor=141020"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-c9e4f5?style=flat-square&logo=githubactions&logoColor=141020"/>
 </p>
 
 <p>
@@ -69,6 +79,22 @@ Built the company site in React on reusable components, with AVIF asset optimisa
 <img src="https://img.shields.io/badge/Hugging_Face-2f5fe0?style=flat-square&logoColor=ffffff"/>
 </p>
 
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/byRudra/byRudra/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/byRudra/byRudra/output/snake.svg"/>
+  <img src="https://raw.githubusercontent.com/byRudra/byRudra/output/snake.svg" width="100%" alt="A snake eating my contribution graph"/>
+</picture>
+
+<p align="center">
+<img width="49%" src="https://streak-stats.demolab.com?user=byRudra&hide_border=true&background=00000000&ring=2f5fe0&fire=2f5fe0&currStreakLabel=2f5fe0&sideLabels=9bc3e7&stroke=9bc3e7&dates=808080&sideNums=808080&currStreakNum=808080" alt="Contribution streak"/>
+</p>
+
+<p align="center">
+<img width="96%" src="https://ghchart.rshah.org/2f5fe0/byRudra" alt="Contribution heatmap"/>
+</p>
+
 ## Recognition
 
 - **SIH 2025** — top 5 teams, Smart India Hackathon internal round
@@ -77,10 +103,6 @@ Built the company site in React on reusable components, with AVIF asset optimisa
 - Certified: [Software Engineer](https://www.hackerrank.com/certificates/77beaf00239a) and [Python](https://www.hackerrank.com/certificates/1582c0cf1cc0) (HackerRank) &nbsp;·&nbsp; [Claude Code 101](https://academy.claude.com/verify/2f3e4b938b3d34771bc8b3239bf20b68) (Anthropic Academy)
 
 ---
-
-<p align="center">
-<img width="440" src="https://streak-stats.demolab.com?user=byRudra&hide_border=true&background=00000000&ring=2f5fe0&fire=2f5fe0&currStreakLabel=2f5fe0&sideLabels=9bc3e7&stroke=9bc3e7&dates=808080&sideNums=808080&currStreakNum=808080" alt="Contribution streak"/>
-</p>
 
 <p align="center">
 <sub>Open to conversations about agentic systems, retrieval, and backend engineering.</sub>
