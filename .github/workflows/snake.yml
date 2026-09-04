@@ -26,6 +26,11 @@ jobs:
             dist/snake.svg?color_snake=%232f5fe0&color_dots=%23e8e1d2,%239bc3e7,%238fd6e3,%232f5fe0,%23141020
             dist/snake-dark.svg?color_snake=%238fd6e3&color_dots=%23161b22,%231f3a6e,%232f5fe0,%239bc3e7,%238fd6e3
 
+      # Platane/snk runs in Docker as root, so dist/ comes back root-owned and
+      # the next step cannot write into it.
+      - name: Take ownership of dist
+        run: sudo chown -R "$(id -u):$(id -g)" dist && ls -la dist
+
       - name: Build contribution stats card
         env:
           PROFILE_USER: ${{ github.repository_owner }}
