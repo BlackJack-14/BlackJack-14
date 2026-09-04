@@ -88,7 +88,7 @@ Built the company site in React on reusable components, with AVIF asset optimisa
 </picture>
 
 <p align="center">
-<img width="49%" src="https://streak-stats.demolab.com?user=byRudra&hide_border=true&background=00000000&ring=2f5fe0&fire=2f5fe0&currStreakLabel=2f5fe0&sideLabels=9bc3e7&stroke=9bc3e7&dates=808080&sideNums=808080&currStreakNum=808080" alt="Contribution streak"/>
+<img width="460" src="https://streak-stats.demolab.com?user=byRudra&hide_border=true&background=00000000&ring=2f5fe0&fire=2f5fe0&currStreakLabel=2f5fe0&currStreakNum=2f5fe0&sideLabels=2f5fe0&sideNums=808080&dates=808080&stroke=808080" alt="Contribution streak"/>
 </p>
 
 <p align="center">
