@@ -307,38 +307,6 @@ flowchart LR
 
 </details>
 
-<details>
-<summary><b>What the UPESCSA.in deploy pipeline does</b> &nbsp;·&nbsp; <sub>click to expand</sub></summary>
-
-<br/>
-
-```mermaid
-%%{init: {"theme":"base","themeVariables":{"primaryColor":"#161B22","primaryTextColor":"#C9D1D9","primaryBorderColor":"#F5A524","lineColor":"#8B949E","secondaryColor":"#1C2128","fontSize":"13px","clusterBkg":"#0D1117","clusterBorder":"#30363D"}}}%%
-flowchart TD
-    subgraph EC2["AWS EC2"]
-        N[nginx<br/>reverse proxy]
-        subgraph DC["docker-compose"]
-            FE[React frontend]
-            BE[Express API]
-        end
-        DB[(MongoDB)]
-    end
-    U[Visitor] -->|HTTPS| N
-    N --> FE
-    N --> BE
-    BE --> DB
-    CB[Certbot / Let's Encrypt] -.->|TLS renewal| N
-    S[deploy scripts] -.->|one command| DC
-
-    style N fill:#1C2128,stroke:#F5A524,color:#C9D1D9
-    style CB fill:#1C2128,stroke:#7C9CBF,color:#C9D1D9
-    style S fill:#1C2128,stroke:#7C9CBF,color:#C9D1D9
-```
-
-Provisioning, reverse-proxy config, TLS issuance and separate hardened frontend/backend deploy paths are all scripted — so a redeploy is one command rather than a checklist.
-
-</details>
-
 ---
 
 ## Signals
