@@ -5,15 +5,15 @@
 <p align="center"><em>Software engineer who happens to speak fluent machine learning.</em></p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-2f5fe0?style=for-the-badge&labelColor=141020"/>
-<img src="https://img.shields.io/badge/JAMMU%2C%20INDIA-141020?style=for-the-badge&labelColor=141020"/>
+<img src="https://shieldcn.dev/badge/Open%20to%20work-2f5fe0.svg?size=lg" alt="Open to work"/>
+<img src="https://shieldcn.dev/badge/Jammu%2C%20India.svg?variant=secondary&size=lg" alt="Jammu, India"/>
 </p>
 
 <p align="center">
-<a href="https://byrudra.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-2f5fe0?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=141020"/></a>
-<a href="mailto:rudra.gupta@hotmail.com"><img src="https://img.shields.io/badge/EMAIL-141020?style=for-the-badge&logo=maildotru&logoColor=8fd6e3&labelColor=141020"/></a>
-<a href="https://linkedin.com/in/rudra-gupta"><img src="https://img.shields.io/badge/LINKEDIN-141020?style=for-the-badge&logoColor=8fd6e3&labelColor=141020&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzhmZDZlMyI%2BPHBhdGggZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42My0xLjg1IDMuMzYtMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ1djYuMjl6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzJ2MjAuNTZDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43MlYxLjcyQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4%3D"/></a>
-<a href="https://github.com/byRudra"><img src="https://img.shields.io/badge/GITHUB-141020?style=for-the-badge&logo=github&logoColor=8fd6e3&labelColor=141020"/></a>
+<a href="https://byrudra.vercel.app"><img src="https://shieldcn.dev/badge/Portfolio-2f5fe0.svg?size=lg&logo=vercel" alt="Portfolio"/></a>
+<a href="mailto:rudra.gupta@hotmail.com"><img src="https://shieldcn.dev/badge/Email.svg?variant=default&size=lg&logo=maildotru" alt="Email"/></a>
+<a href="https://linkedin.com/in/rudra-gupta"><img src="https://shieldcn.dev/badge/LinkedIn.svg?variant=default&size=lg&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzE4MTgxYiI%2BPHBhdGggZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42My0xLjg1IDMuMzYtMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ1djYuMjl6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzJ2MjAuNTZDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43MlYxLjcyQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4%3D" alt="LinkedIn"/></a>
+<a href="https://github.com/byRudra"><img src="https://shieldcn.dev/badge/GitHub.svg?variant=default&size=lg&logo=github" alt="GitHub"/></a>
 </p>
 
 <p align="center">
@@ -56,13 +56,13 @@ Built the company site in React on reusable components, with AVIF asset optimisa
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/RAG-2f5fe0?style=flat-square&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/MCP_%2F_Tool_Orchestration-2f5fe0?style=flat-square&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/LoRA_%2F_PEFT-2f5fe0?style=flat-square&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/FAISS-2f5fe0?style=flat-square&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Sentence_Transformers-2f5fe0?style=flat-square&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Guardrails-2f5fe0?style=flat-square&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Hugging_Face-2f5fe0?style=flat-square&logoColor=ffffff"/>
+<img src="https://shieldcn.dev/badge/RAG.svg?variant=secondary" alt=""/>
+<img src="https://shieldcn.dev/badge/MCP%20%2F%20Tool%20Orchestration.svg?variant=secondary" alt=""/>
+<img src="https://shieldcn.dev/badge/LoRA%20%2F%20PEFT.svg?variant=secondary" alt=""/>
+<img src="https://shieldcn.dev/badge/FAISS.svg?variant=secondary" alt=""/>
+<img src="https://shieldcn.dev/badge/Sentence%20Transformers.svg?variant=secondary" alt=""/>
+<img src="https://shieldcn.dev/badge/Guardrails.svg?variant=secondary" alt=""/>
+<img src="https://shieldcn.dev/badge/Hugging%20Face.svg?variant=secondary" alt=""/>
 </p>
 
 ## Activity
