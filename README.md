@@ -1,4 +1,8 @@
-<img src="assets/header.png" width="100%" alt=""/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png"/>
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.png"/>
+  <img src="assets/header-light.png" width="100%" alt=""/>
+</picture>
 
 <h1 align="center">Rudra Gupta</h1>
 
@@ -23,6 +27,8 @@
 I take work through to something **running in production**, not a prototype — agentic systems, retrieval and fine-tuning, plus the backend and infrastructure that keeps them up. I build with AI coding assistants as standard practice, and exercise judgement on what they generate before it ships.
 
 > *A jack of all trades is a master of none, but oftentimes better than a master of one.*
+
+<img src="assets/typing.svg" width="560" alt="fine-tuning the model / retrieval looks grounded / shipping to production"/>
 
 ## Experience
 
@@ -92,4 +98,8 @@ Built the company site in React on reusable components, with AVIF asset optimisa
 
 <p align="center">
 <sub>Open to conversations about agentic systems, retrieval, and backend engineering.</sub>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=byRudra&label=visitors&color=2f5fe0&style=flat-square&labelColor=141020" alt="Visitor count"/>
 </p>
