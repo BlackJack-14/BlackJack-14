@@ -22,6 +22,8 @@
 
 I take work through to something **running in production**, not a prototype — agentic systems, retrieval and fine-tuning, plus the backend and infrastructure that keeps them up. I build with AI coding assistants as standard practice, and exercise judgement on what they generate before it ships.
 
+> *A jack of all trades is a master of none, but oftentimes better than a master of one.*
+
 ## Experience
 
 **Bilby.ai** &nbsp;·&nbsp; Intern &nbsp;&nbsp;<sub>Remote (Hong Kong) &nbsp;·&nbsp; Jun – Jul 2026</sub><br/>
@@ -49,27 +51,11 @@ Built the company site in React on reusable components, with AVIF asset optimisa
 
 ## Stack
 
-<p>
-<img src="https://img.shields.io/badge/Python-9bc3e7?style=flat-square&logo=python&logoColor=141020"/>
-<img src="https://img.shields.io/badge/TypeScript-9bc3e7?style=flat-square&logo=typescript&logoColor=141020"/>
-<img src="https://img.shields.io/badge/PyTorch-9bc3e7?style=flat-square&logo=pytorch&logoColor=141020"/>
-<img src="https://img.shields.io/badge/React-9bc3e7?style=flat-square&logo=react&logoColor=141020"/>
-<img src="https://img.shields.io/badge/Node.js-9bc3e7?style=flat-square&logo=nodedotjs&logoColor=141020"/>
-<img src="https://img.shields.io/badge/FastAPI-9bc3e7?style=flat-square&logo=fastapi&logoColor=141020"/>
-<img src="https://img.shields.io/badge/Express-9bc3e7?style=flat-square&logo=express&logoColor=141020"/>
+<p align="center">
+<img width="72%" src="https://skillicons.dev/icons?i=python,pytorch,typescript,react,nodejs,express,fastapi,mongodb,mysql,redis,docker,aws,nginx,linux&perline=7&theme=dark" alt="Python, PyTorch, TypeScript, React, Node.js, Express, FastAPI, MongoDB, MySQL, Redis, Docker, AWS, Nginx, Linux"/>
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/MongoDB-c9e4f5?style=flat-square&logo=mongodb&logoColor=141020"/>
-<img src="https://img.shields.io/badge/Redis-c9e4f5?style=flat-square&logo=redis&logoColor=141020"/>
-<img src="https://img.shields.io/badge/Docker-c9e4f5?style=flat-square&logo=docker&logoColor=141020"/>
-<img src="https://img.shields.io/badge/AWS_EC2-c9e4f5?style=flat-square"/>
-<img src="https://img.shields.io/badge/Nginx-c9e4f5?style=flat-square&logo=nginx&logoColor=141020"/>
-<img src="https://img.shields.io/badge/Linux-c9e4f5?style=flat-square&logo=linux&logoColor=141020"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-c9e4f5?style=flat-square&logo=githubactions&logoColor=141020"/>
-</p>
-
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/RAG-2f5fe0?style=flat-square&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/MCP_%2F_Tool_Orchestration-2f5fe0?style=flat-square&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/LoRA_%2F_PEFT-2f5fe0?style=flat-square&logoColor=ffffff"/>
